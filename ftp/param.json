@@ -1,7 +1,7 @@
 {
     "ftp" : {
         "Addr" : "ftp://xxx.xxx.xxx.xxx:xx",
-        "Path" : "pathOnFtp",
+        "Path" : "path/on/ftp",
         "User" : "userName"
     },
     "local" : {
